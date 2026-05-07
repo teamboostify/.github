@@ -36,5 +36,5 @@ Boostify is community-driven and open to everyone. Found a bug? Have an idea? Ju
 ---
 
 <div align="center">
-  <sub>Built with ❤️ by <a href="http://boostify.breaddev.cc/"><b>Team Boostify</b></a></sub>
+  <sub>Built with ❤️ by <a href="https://boostify.breaddevv.cc/"><b>Team Boostify</b></a></sub>
 </div>

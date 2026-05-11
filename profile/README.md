@@ -28,6 +28,7 @@ Boostify is community-driven and open to everyone. Found a bug? Have an idea? Ju
 
 - 💬 **Chat with us** — [discord.gg/vZgeWhZ9aF](https://discord.gg/vZgeWhZ9aF)
 - 🐛 **Report issues** — [teamboostify/boostify/issues](https://github.com/teamboostify/boostify/issues)
+- ⚡️ **Submit a Pull Request — [teamboostify/boostify/pulls]([https://github.com/teamboostify/boostify/pulls])
 
 <div align="center">
   <img src="https://media.giphy.com/media/GeimqsH0TLDt4tScGw/giphy.gif" width="180" alt="cat waving goodbye" />

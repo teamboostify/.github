@@ -1,41 +1,81 @@
 <div align="center">
-  <img height="150px" src="logo.png" alt="Boostify Logo" />
+  <img src="logo.png" height="140" alt="Boostify Logo" />
 
-  <h1>Team Boostify</h1>
+  # Team Boostify
 
-  <p><strong>The open-source standard for Discord server boost management.</strong></p>
+  ### The modern open-source platform for Discord boost management.
 
-  <a href="https://discord.gg/vZgeWhZ9aF">
-    <img src="https://img.shields.io/discord/1453868977720922287?style=for-the-badge&logo=Discord&logoColor=white&label=Join%20the%20Community&color=FF47B5" alt="Discord" />
-  </a>
+  <p>
+    Automate boost claims, rewards, tracking, and server management — built for communities that want speed, reliability, and simplicity.
+  </p>
 
+  <p>
+    <a href="https://discord.gg/vZgeWhZ9aF">
+      <img src="https://img.shields.io/discord/1453868977720922287?style=for-the-badge&logo=discord&logoColor=white&label=Community&color=5865F2" alt="Discord Server" />
+    </a>
+    <a href="https://github.com/teamboostify/boostify">
+      <img src="https://img.shields.io/github/stars/teamboostify/boostify?style=for-the-badge&logo=github&label=Stars" alt="GitHub Stars" />
+    </a>
+    <a href="https://github.com/teamboostify/boostify/blob/main/LICENSE">
+      <img src="https://img.shields.io/github/license/teamboostify/boostify?style=for-the-badge&label=License" alt="License" />
+    </a>
+  </p>
 </div>
 
 ---
 
-## 👋 Who We Are
+## ✨ About Us
 
-**Team Boostify** is a small open-source team building [Boostify](https://github.com/teamboostify/boostify) — an automated Discord boost management bot that takes the hassle out of managing server boosts, so you can focus on what actually matters: your community.
+We are **Team Boostify** — a small group of developers passionate about building powerful tools for Discord communities.
+
+Our main project, [**Boostify**](https://github.com/teamboostify/boostify), is an open-source Discord boost management platform designed to automate and simplify the entire boosting experience.
+
+Whether you're managing a small community or a large-scale server, Boostify helps you handle:
+
+- 🚀 Boost claims & reward systems
+- 📊 Boost tracking & analytics
+- 🔄 Automated workflows
+- 🛡️ Secure and scalable infrastructure
+- ⚡ Modern developer-friendly architecture
 
 <div align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="180" alt="cat typing furiously" />
-  <img src="https://media.giphy.com/media/lJNoBCvQYp7nq/giphy.gif" width="180" alt="cat waving" />
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="170" />
+  <img src="https://media.giphy.com/media/lJNoBCvQYp7nq/giphy.gif" width="170" />
 </div>
+
+---
+
+## 🌍 Open Source & Community Driven
+
+Boostify is built with the community, not just for the community.
+
+We welcome:
+- 🐛 Bug reports
+- 💡 Feature suggestions
+- 🔧 Pull requests
+- ❤️ Contributors of all skill levels
+
+If you want to help shape the future of Boostify, come join us.
+
+---
 
 ## 🤝 Get Involved
 
-Boostify is community-driven and open to everyone. Found a bug? Have an idea? Just want to say hi? We'd love to hear from you.
-
-- 💬 **Chat with us** — [discord.gg/vZgeWhZ9aF](https://discord.gg/vZgeWhZ9aF)
-- 🐛 **Report issues** — [teamboostify/boostify/issues](https://github.com/teamboostify/boostify/issues)
-- ⚡️ **Submit a Pull Request** — [teamboostify/boostify/pulls](https://github.com/teamboostify/boostify/pulls)
-
 <div align="center">
-  <img src="https://media.giphy.com/media/GeimqsH0TLDt4tScGw/giphy.gif" width="180" alt="cat waving goodbye" />
+
+| Community | Links |
+|---|---|
+| 💬 Discord | [Join the Community](https://discord.gg/vZgeWhZ9aF) |
+| 🐛 Issues | [Report a Bug](https://github.com/teamboostify/boostify/issues) |
+| ⚡ Pull Requests | [Contribute on GitHub](https://github.com/teamboostify/boostify/pulls) |
+| 📦 Repository | [View Boostify](https://github.com/teamboostify/boostify) |
+
 </div>
 
 ---
 
-<div align="center">
-  <sub>Built with ❤️ by <a href="https://boostify.breaddevv.cc/"><b>Team Boostify</b></a></sub>
-</div>
+## 💻 Tech Stack
+
+```txt
+TypeScript • Node.js • Discord.js • PostgreSQL • Prisma • Next.js
+```

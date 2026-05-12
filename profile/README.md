@@ -79,3 +79,4 @@ If you want to help shape the future of Boostify, come join us.
 ```txt
 TypeScript • Node.js • Discord.js • PostgreSQL • Prisma • Next.js
 ```
+<div align="center"> <img src="https://media.giphy.com/media/GeimqsH0TLDt4tScGw/giphy.gif" width="180" alt="Goodbye Cat" /> <br /> <br /> <sub> Built with ❤️ by <a href="https://boostify.breaddevv.cc/"><b>Team Boostify</b></a> </sub> </div>
